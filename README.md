@@ -1,4 +1,5 @@
 AlgorithmVisualiser
+
 Interactive Algorithm Visualization Tool | Sorting • Pathfinding • Graph Traversals
 
 🔮 "Understanding algorithms through elegant visualizations"
