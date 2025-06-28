@@ -22,7 +22,6 @@ Tech Stack:
 Get Started:
 
 bash
-
 git clone https://github.com/yourusername/AlgorithmVisualiser  
 pip install -r requirements.txt  
 python src/main.py  
